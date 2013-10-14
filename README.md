@@ -1,4 +1,4 @@
-#Tail Stream Provider Example
+#Tail Example
 
 This repository contains an example of how to extend [Tail](https://github.com/patriksvensson/tail) with a new stream provider.
 
